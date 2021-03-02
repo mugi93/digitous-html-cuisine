@@ -1,0 +1,23 @@
+@font-face{
+    font-family: 'Courgette';
+    src: url(../../../.././outil/Courgette-Regular.ttf);
+}
+nav{
+    font-family: "Courgette";
+    height: 100px;
+}
+nav h2{
+    padding-left: 30px;
+}
+.back{ 
+    background-image:url(../digitous-html-cuisine/img/header.jpg) ;
+    
+    
+    font-family: "Courgette";
+    
+   
+    
+}
+header{
+    height: 500px;
+}
