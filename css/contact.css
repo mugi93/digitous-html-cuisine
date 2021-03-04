@@ -26,6 +26,9 @@ nav, header {
 .mapouter {
     height: 200px;
 }
+footer{
+    background-color: black;
+}
 footer a {
     color: #fff;
 }
