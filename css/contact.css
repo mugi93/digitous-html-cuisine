@@ -1,0 +1,36 @@
+.background-cuizine {
+    
+    background-image: url('../img/header.jpg');
+    background-position: center;
+}
+
+nav, header {
+    background-color: rgb(0 0 0 / 80%);
+}
+
+.navbar {
+    border-bottom: 2px solid rgb(73 72 72 / 80%);
+}
+
+.navbar h2 a {
+    font-size: 30px;
+}
+
+.header-cuizine-row {
+    height: 400px;
+}
+
+.header-cuizine-row img {
+    width: 80px;
+}
+.mapouter {
+    height: 200px;
+}
+footer a {
+    color: #fff;
+}
+
+footer ul {
+    list-style-type: none;
+    padding-left: 0;
+}

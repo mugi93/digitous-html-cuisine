@@ -18,6 +18,7 @@ nav h2{
 a.navbar-brand{
     font-size: 30px;
     margin-top: -10px;
+    font-family: "Courgette";
 }
 
 #navbarNavAltMarkup{
@@ -26,8 +27,8 @@ a.navbar-brand{
 }
 .back{ 
     
-     font-family: "Courgette";
-    background-image: url(./img/header.jpg);
+     
+    background-image: url(../img/header.jpg);
     background-position: center;
     
     
@@ -37,7 +38,9 @@ header{
     background-color: rgba(0, 0, 0, 0.637);
 }
     
-    
+header .row{
+    height: 400px;
+}
     
 button{
     color: gray;
@@ -50,28 +53,13 @@ button{
 header{
     height: 500px;
 }
-.white{
-    color: white;
-    text-align: center;
-    margin-top: 138px;
-    display: flex;
-    justify-content: center;
-    flex-direction: column;
-    align-items: center;
-}
+
 
 
 img{
-    width: 120px;
+    width: 100px;
 }
-.white h1{
-    font-size: 40px;
-}
-.white h2{
-    font-size: 40px;
-    width: 262px;
-    
-}
+
 
 .last h2{
     text-align: center;
@@ -113,6 +101,7 @@ section .metro{
     color:gray;
     text-decoration: none;
 }
+
 
 footer{
     height: 400px;
