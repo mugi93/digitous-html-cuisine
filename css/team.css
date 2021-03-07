@@ -3,3 +3,8 @@
     background-image: url('../img/team/team.jpg');
     background-position: center;
 }
+
+img{
+    border-radius: 50%;
+    width: 150px;
+}

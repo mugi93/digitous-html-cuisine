@@ -44,3 +44,11 @@ footer ul {
 aside i.bi, footer i.bi {
     padding: 5px;
 }
+footer{
+    height: 500px;
+    background-color: black;
+
+}
+footer a {
+    color: #fff;
+}
